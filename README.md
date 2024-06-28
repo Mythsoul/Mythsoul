@@ -1,6 +1,12 @@
 <br clear="both">
 
-<h1 align="center">Hi 👋! My name is Gajodar Shing and I'm a coder from India</h1>
+<h1 align="center">Hi 👋! My name is {error} and I'm a coder from {error}</h1>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 
 ###
 
@@ -19,9 +25,13 @@
 
 ###
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mythsoul.Mythsoul&left_color=aqua&right_color=aquamarine&left_text=Profile%20Views"  />
+
+###
+
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
