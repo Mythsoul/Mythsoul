@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working as freelancer <br>
 🌱 I’m currently learning Web3 & ML<br>
-⚡ Fun fact I make what i need. & I love error's 
+⚡ Fun fact I make what i need  & I love error's 
 
 
 ## 🌐 Socials:
