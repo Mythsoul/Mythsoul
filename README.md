@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as Freelance Devloper<br>🌱 I’m currently learning as Student <br>💬 Ask me about python/js<br>⚡ Fun fact my life is fun
+🔭 I’m currently working as Freelance Devloper<br>🌱 I’m currently learning as Student <br>💬 Ask me about python/js<br>⚡ Fun fact my life is error
 
 
 ## 🌐 Socials:
