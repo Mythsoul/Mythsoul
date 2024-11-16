@@ -1,6 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working as Freelance Devloper<br>
-⚒️ Current Project : <a href="https://github.com/Mythsoul/Taskmanager">Task Manager</a> <br>🌱 I’m currently learning as Student <br>💬 Ask me about python/js<br>⚡ Fun fact my life is error
+🔭 I’m currently working as Freelance Devloper<br> 
+🧾 Recent Project :  <a href="https://github.com/Mythsoul/Taskmanager">Task Manager</a> <br>
+⚒️ Current Project : <a href="https://github.com/mythsoul?tab=repositories">Not Working</a> <br>🌱 I’m currently learning as Student <br>💬 Ask me about python/js<br>⚡ Fun fact my life is error
 
 
 ## 🌐 Socials:
