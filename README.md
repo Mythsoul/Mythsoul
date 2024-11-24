@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on improving fundamentals<br>👯 I’m looking to collaborate on Fullstack Project<br>🌱 I’m currently learning React & Next Js<br>💬 Ask me about Nothing <br>⚡ Fun fact I love coding 
+🔭 I’m currently working on improving fundamentals<br>👯 I’m looking to collaborate on Fullstack Project<br>🌱 I’m currently learning React & Next Js<br>💬 Ask me about Nothing <br>⚡ 
 
 
 ## 🌐 Socials:
