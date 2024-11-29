@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on improving fundamentals<br>👯 I’m looking to collaborate on Fullstack Project<br>🌱 I’m currently learning React & Next Js<br>💬 Ask me about Nothing <br>
+🔭 I’m currently working on improving fundamentals<br>👯 I’m looking to collaborate on Fullstack Project<br>🌱 I’m currently learning React & Next Js<br>💬 Ask me about Nothing <br> <br> 🧾 Current Project: <a href="https://github.com/Mythsoul?tab=repositories">Bolt.new CLone</a> <br> 
 
 
 ## 🌐 Socials:
