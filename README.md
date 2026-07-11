@@ -166,29 +166,7 @@ $ whoami --verbose
 
 > <sub>💡 the snake above is a placeholder. to make it yours: create a repo named <code>icho08/icho08</code> (a "profile repo"), move this README into it, then add <a href="https://github.com/Platane/snk">Platane/snk</a>'s GitHub Action at <code>.github/workflows/snake.yml</code>. it'll generate <code>github-contribution-grid-snake.svg</code> on the <code>output</code> branch — the URLs above will then light up automatically.</sub>
 
----
 
-## 🧭 &nbsp; the philosophy
-
-<table>
-<tr>
-<td>
-
-```ts
-const chhabi = {
-  code:      "should read like prose",
-  ship:      "small, often, in public",
-  security:  "not a feature, a foundation",
-  learning:  () => "forever",
-  ego:       null,
-};
-```
-
-</td>
-</tr>
-</table>
-
----
 
 <!-- ========================= FOOTER WAVE ========================= -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0f0f0f&height=140&section=footer&text=let's%20build.&fontColor=A3E635&fontSize=32&fontAlignY=75&animation=twinkling" width="100%" alt="footer" />
