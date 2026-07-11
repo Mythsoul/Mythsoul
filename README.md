@@ -139,14 +139,14 @@ $ whoami --verbose
 <div align="center">
 
 <a href="https://github.com/icho08">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=icho08&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=A3E635&icon_color=A3E635&text_color=e5e5e5&bg_color=0f0f0f" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=icho08&hide_border=true&background=0f0f0f&stroke=A3E635&ring=A3E635&fire=A3E635&currStreakLabel=A3E635&sideNums=e5e5e5&currStreakNum=e5e5e5&dates=808080&sideLabels=e5e5e5" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=icho08&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=A3E635&icon_color=A3E635&text_color=e5e5e5&bg_color=0f0f0f&cache_seconds=1800" />
+  <img height="170" src="https://streak-stats.demolab.com?user=icho08&hide_border=true&background=0f0f0f&stroke=A3E635&ring=A3E635&fire=A3E635&currStreakLabel=A3E635&sideNums=e5e5e5&currStreakNum=e5e5e5&dates=808080&sideLabels=e5e5e5" />
 </a>
 
 <br />
 
 <a href="https://github.com/icho08">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icho08&layout=compact&hide_border=true&title_color=A3E635&text_color=e5e5e5&bg_color=0f0f0f&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icho08&layout=compact&hide_border=true&title_color=A3E635&text_color=e5e5e5&bg_color=0f0f0f&langs_count=8&cache_seconds=1800" />
   <img height="170" src="https://github-profile-trophy.vercel.app/?username=icho08&theme=matrix&no-frame=true&no-bg=true&column=4&row=2&margin-w=8&margin-h=8" />
 </a>
 
@@ -160,11 +160,11 @@ $ whoami --verbose
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/icho08/icho08/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/icho08/icho08/output/github-contribution-grid-snake.svg" />
-    <img alt="snake eating contributions" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+    <img alt="snake eating contributions" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </div>
 
-> <sub>💡 to make the snake yours: create a repo named <code>icho08/icho08</code> and drop <a href="https://github.com/Platane/snk">Platane/snk</a>'s workflow into <code>.github/workflows/snake.yml</code>.</sub>
+> <sub>💡 the snake above is a placeholder. to make it yours: create a repo named <code>icho08/icho08</code> (a "profile repo"), move this README into it, then add <a href="https://github.com/Platane/snk">Platane/snk</a>'s GitHub Action at <code>.github/workflows/snake.yml</code>. it'll generate <code>github-contribution-grid-snake.svg</code> on the <code>output</code> branch — the URLs above will then light up automatically.</sub>
 
 ---
 
