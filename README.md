@@ -128,33 +128,26 @@ $ whoami --verbose
   </tr>
 </table>
 
-<div align="center">
-  <sub>+ a graveyard of mini experiments over on <a href="https://github.com/icho08?tab=repositories">github</a> ↗</sub>
-</div>
+
 
 ---
 
-## 📊 &nbsp; the receipts
+
 
 <div align="center">
 
 <a href="https://github.com/icho08">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=icho08&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=A3E635&icon_color=A3E635&text_color=e5e5e5&bg_color=0f0f0f&cache_seconds=1800" />
+
   <img height="170" src="https://streak-stats.demolab.com?user=icho08&hide_border=true&background=0f0f0f&stroke=A3E635&ring=A3E635&fire=A3E635&currStreakLabel=A3E635&sideNums=e5e5e5&currStreakNum=e5e5e5&dates=808080&sideLabels=e5e5e5" />
 </a>
 
 <br />
 
-<a href="https://github.com/icho08">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icho08&layout=compact&hide_border=true&title_color=A3E635&text_color=e5e5e5&bg_color=0f0f0f&langs_count=8&cache_seconds=1800" />
-  <img height="170" src="https://github-profile-trophy.vercel.app/?username=icho08&theme=matrix&no-frame=true&no-bg=true&column=4&row=2&margin-w=8&margin-h=8" />
-</a>
 
 </div>
 
 ---
 
-## 🐍 &nbsp; watch the snake eat my contributions
 
 <div align="center">
   <picture>
@@ -164,9 +157,7 @@ $ whoami --verbose
   </picture>
 </div>
 
-> <sub>💡 the snake above is a placeholder. to make it yours: create a repo named <code>icho08/icho08</code> (a "profile repo"), move this README into it, then add <a href="https://github.com/Platane/snk">Platane/snk</a>'s GitHub Action at <code>.github/workflows/snake.yml</code>. it'll generate <code>github-contribution-grid-snake.svg</code> on the <code>output</code> branch — the URLs above will then light up automatically.</sub>
-
-
+>
 
 <!-- ========================= FOOTER WAVE ========================= -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0f0f0f&height=140&section=footer&text=let's%20build.&fontColor=A3E635&fontSize=32&fontAlignY=75&animation=twinkling" width="100%" alt="footer" />
