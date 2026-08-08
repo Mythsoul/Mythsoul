@@ -162,6 +162,4 @@ $ whoami --verbose
 <!-- ========================= FOOTER WAVE ========================= -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0f0f0f&height=140&section=footer&text=let's%20build.&fontColor=A3E635&fontSize=32&fontAlignY=75&animation=twinkling" width="100%" alt="footer" />
 
-<div align="center">
-  <sub>© chhabi • crafted with too much coffee and just enough sleep</sub>
-</div>
+
